@@ -1,3 +1,3 @@
 # Linguagem de marcação:
 
-**Markdown**
+Aprendendo **Markdown** no *Curso am Vídeo!*
